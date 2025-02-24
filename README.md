@@ -27,7 +27,7 @@ pip install -r requirements.txt
 ## Usage
 Run the notebook to process images and interact with the model.
 ```sh
-jupyter notebook Chapter_9_Multimodal_Large_Language_Models.ipynb
+jupyter notebook Multimodal_Large_Language_Models.ipynb
 ```
 
 ## Dependencies
